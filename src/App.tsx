@@ -1,10 +1,13 @@
-
+import { BrowserRouter } from "react-router-dom";
+import { AppRoutes } from "./routes/Index";
 
 function App() {
   return (
-    <div className="App">
-      Teste 123 
-    </div>
+    <BrowserRouter>
+
+      <AppRoutes />
+     
+    </BrowserRouter>
   );
 }
 
