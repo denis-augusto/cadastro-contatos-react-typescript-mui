@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Cadastro",
+  "name": "Cadastro contatos react typescript mui",
   "icons": [
     {
       "src": "favicon.ico",

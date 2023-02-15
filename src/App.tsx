@@ -3,7 +3,7 @@
 function App() {
   return (
     <div className="App">
-      Teste 123  alou alou
+      Teste 123 
     </div>
   );
 }
